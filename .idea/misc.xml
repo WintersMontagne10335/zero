@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/jspDemo0" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/test2" />
+    <file type="web" url="file://$PROJECT_DIR$/tomcatDemo0" />
+    <file type="web" url="file://$PROJECT_DIR$/tomcatDemo1" />
+    <file type="web" url="file://$PROJECT_DIR$/webDemo0" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/test0/pom.xml" />
+        <option value="$PROJECT_DIR$/test1/pom.xml" />
+        <option value="$PROJECT_DIR$/test2/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/tomcatDemo0/pom.xml" />
+        <option value="$PROJECT_DIR$/tomcatDemo1/pom.xml" />
+        <option value="$PROJECT_DIR$/webDemo0/pom.xml" />
+        <option value="$PROJECT_DIR$/jspDemo0/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
